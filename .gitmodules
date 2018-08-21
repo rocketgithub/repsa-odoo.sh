@@ -2,3 +2,15 @@
 	path = pos_gt
 	url = git@github.com:rocketgithub/pos_gt.git
 	branch = 11.0
+[submodule "gface_infile"]
+	path = gface_infile
+	url = git@github.com:rocketgithub/gface_infile.git
+	branch = 11.0
+[submodule "pos_gface"]
+	path = pos_gface
+	url = git@github.com:rocketgithub/pos_gface.git
+	branch = 11.0
+[submodule "l10n_gt_extra"]
+	path = l10n_gt_extra
+	url = git@github.com:rocketgithub/l10n_gt_extra.git
+	branch = 11.0

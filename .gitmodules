@@ -10,3 +10,7 @@
 	path = pos_gface
 	url = git@github.com:rocketgithub/pos_gface.git
 	branch = 11.0
+[submodule "l10n_gt_extra"]
+	path = l10n_gt_extra
+	url = git@github.com:rocketgithub/l10n_gt_extra.git
+	branch = 11.0
